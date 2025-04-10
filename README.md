@@ -1,21 +1,17 @@
 
+# 😊Diana’s AI World
+---
+> AI와 함께 미래로 갑니다. 프로젝트 매니저, 조은별입니다👋
 
-<div align="left"> 
-  # 😊Diana’s AI World
-  ---
- 
-   ### AI와 함께 미래로 갑니다. 프로젝트 매니저, 조은별입니다👋
-  
   - AI/BIG DATA 전문 Project Manager Diana Cho입니다.
   - 시장이 주목하는 최신 AI 기술과 고객이 원하는 서비스를 위해 오늘도 성장하고 있습니다.
   - 🔭 현재 경희대학교 AI연구실에서 논문을 집필하고 있습니다.
-</div>
 
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
+    <div style="margin: 0 auto; text-align: left;" align= "left">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
