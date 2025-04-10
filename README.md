@@ -1,4 +1,4 @@
-
+<div align= "left">
 # 😊Diana’s AI World
 
 ## AI와 함께 미래로 갑니다. 프로젝트 매니저, 조은별입니다👋
@@ -11,8 +11,8 @@
 
 
 
-<div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: 0 auto; text-align: left;" align= "left">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
     </div>
-</div>
+
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
@@ -30,7 +30,7 @@
       <a href=mailto:piaristar@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=Gmail&logoColor=white&link=mailto:piaristar@gmail.com"> </a>
     </div>
 
----
+
 
 ## ✅**경력 (총 8년 9개월)**
 
@@ -68,7 +68,7 @@
 
 
 
-
+</div>
 
 
 
