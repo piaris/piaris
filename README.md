@@ -1,4 +1,4 @@
-<p align="center">
+<div align=center>
  
   # 😊Diana’s AI World
 
@@ -10,19 +10,19 @@
   ✔️ 시장이 주목하는 최신 AI 기술과 고객이 원하는 서비스를 위해 오늘도 성장하고 있습니다. <br>
   🔭 현재 경희대학교 AI연구실에서 논문을 집필하고 있습니다. <br>
   
+  </div>
   
-  
-  
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-      <div style="margin: 0 auto; text-align: left;" align= "center">
+  <div align= "center">
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <div style="margin: 0 auto; text-align: left;" align= "center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-      </div>
-  
+    </div>
+  </div>
   
   <div align= "center">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
@@ -30,8 +30,7 @@
         <a href=https://www.notion.so/CRM-5fc9ad3ea1054a53a686292efcc77831?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/CRM-5fc9ad3ea1054a53a686292efcc77831?pvs=4"> </a>
         <a href=mailto:piaristar@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=Gmail&logoColor=white&link=mailto:piaristar@gmail.com"> </a>
       </div>
-  
-  
+</div>
   
   ## ✅**경력 (총 8년 9개월)**
   
@@ -69,7 +68,7 @@
   
   
 
-</p>
+
 
 
 
