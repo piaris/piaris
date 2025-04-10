@@ -2,12 +2,13 @@
 # 😊Diana’s AI World
  <br>
 ## AI와 함께 미래로 갑니다. 프로젝트 매니저, 조은별입니다👋
+<img width=689 src="https://github.com/user-attachments/assets/6e84200b-c9e5-437a-af06-4d52916feb54">
  <br>
 ✔️ AI/BIG DATA 전문 Project Manager Diana Cho입니다. <br>
 ✔️ 시장이 주목하는 최신 AI 기술과 고객이 원하는 서비스를 위해 오늘도 성장하고 있습니다. <br>
 🔭 현재 경희대학교 AI연구실에서 논문을 집필하고 있습니다. <br>
 
-![Image](https://github.com/user-attachments/assets/edd9af6e-317a-44e4-8c61-22da4b8c1206)
+
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
