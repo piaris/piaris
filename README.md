@@ -1,4 +1,4 @@
-<div align= "left">
+<p align="center">
  
   # 😊Diana’s AI World
 
@@ -14,7 +14,7 @@
   
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-      <div style="margin: 0 auto; text-align: left;" align= "left">
+      <div style="margin: 0 auto; text-align: left;" align= "center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -24,9 +24,9 @@
       </div>
   
   
-  <div align= "left">
+  <div align= "center">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
-      <div align= "left">
+      <div align= "center">
         <a href=https://www.notion.so/CRM-5fc9ad3ea1054a53a686292efcc77831?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/CRM-5fc9ad3ea1054a53a686292efcc77831?pvs=4"> </a>
         <a href=mailto:piaristar@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=Gmail&logoColor=white&link=mailto:piaristar@gmail.com"> </a>
       </div>
@@ -69,7 +69,7 @@
   
   
 
-</div>
+</p>
 
 
 
